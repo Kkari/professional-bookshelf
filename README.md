@@ -19,7 +19,7 @@ I've done this repository to keep track of my professional reading list. It cont
 * Recommender Systems **by** Dietmar Jannach
 * Game Programming Patterns **by** Robert Nystrom
 * Learning UML 2.0: A Pragmatic Introduction to UML **by** Russ Miles
-* A Software Engineer Learns HTML5, Javascript and JQuery: A guide to standards-based web applications by Dane Cameron
+* A Software Engineer Learns HTML5, Javascript and JQuery: A guide to standards-based web applications **by** Dane Cameron
 
 ## Still on my reading list (approximately ordered):
 * Release It!: Design and Deploy Production-Ready Software **by** Michael T. Nygard
@@ -35,4 +35,4 @@ I've done this repository to keep track of my professional reading list. It cont
 * Seven Concurrency Models in Seven Weeks: When Threads Unravel **by** Paul Butcher
 * Distributed Algorithms **by** Nancy A. Lynch
 * Java Concurrency in Practice by by Brian Goetz **by** Doug Lea et al
-* Effective Java  by Joshua Bloch
+* Effective Java  **by** Joshua Bloch
