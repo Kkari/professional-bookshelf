@@ -1,6 +1,6 @@
 # professional-bookshelf
 
-I've done this repository to keep track of my professional reading list. It contains the books that I've read, the book that I'm currently reading, and some that are on my watchlist but I haven't got the time to get around them just yet.
+I've done this repository to keep track of my professional reading list. It contains the books that I've read, the book that I'm currently reading, and some others that are on my watchlist but I haven't got the time to get around them just yet.
 
 ## Currently Reading:
 * Domain-Driven Design: Tackling Complexity in the Heart of Software **by** Eric Evans
