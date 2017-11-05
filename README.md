@@ -1,6 +1,6 @@
 # professional-bookshelf
 
-I've done this repository to keep track of my professional reading list. It contains the books that I've read, the book that I'm currently reading, and some others that are on my watchlist but I haven't got the time to get around them just yet.
+I've done this repository to keep track (rather loosely) of my professional reading list. It contains the books that I've read, the book that I'm currently reading, and some others that are on my watchlist but I haven't got the time to get around them just yet.
 
 ## Currently Reading:
 * Domain-Driven Design: Tackling Complexity in the Heart of Software **by** Eric Evans
@@ -11,8 +11,13 @@ I've done this repository to keep track of my professional reading list. It cont
 * Clean Code: A Handbook of Agile Software Craftsmanship **by** Robert C. Martin
 * Javascript: The Good Parts **by** Douglas Cockford
 
-## Books that I have read just for fun:
+## Whitepapers (only those that are about distributed systems, without being exhaustive):
+* AWS Well-Architected Framework
+* AWS Cloud Architecture Best Practices Whitepaper
+* Building Fault-Tolerant Applications on AWS Whitepaper
+* Web Hosting Best Practices Whitepaper
 
+## Books that I have read just for fun:
 * Recommender Systems **by** Dietmar Jannach
 * Data Mining: Practical Machine Learning Tools and Techniques **by** Ian H. Witten
 * And Introduction to Functional Programming Through Lambda Calculus **by** Gerg Michaelson
@@ -21,6 +26,11 @@ I've done this repository to keep track of my professional reading list. It cont
 * Game Programming Patterns **by** Robert Nystrom
 * Learning UML 2.0: A Pragmatic Introduction to UML **by** Russ Miles
 
+## Books that I have read into, occasionally picking up, etc:
+* Distributed Algorithms **by** Nancy A. Lynch
+* Java Concurrency in Practice by by Brian Goetz **by** Doug Lea et al
+* Effective Java  **by** Joshua Bloch
+* Seven Concurrency Models in Seven Weeks: When Threads Unravel **by** Paul Butcher
 
 ## Still on my reading list (approximately ordered):
 * Release It!: Design and Deploy Production-Ready Software **by** Michael T. Nygard
@@ -31,9 +41,3 @@ I've done this repository to keep track of my professional reading list. It cont
 * The Clean Coder: A Code of Conduct for Professional Programmers **by** Robert C. Martin
 * Patterns of Enterprise Application Architecture **by** Martin Fowler
 * Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions **by** Gregor Hohpe
-
-## Books that I have read into, occasionally picking up, etc:
-* Distributed Algorithms **by** Nancy A. Lynch
-* Java Concurrency in Practice by by Brian Goetz **by** Doug Lea et al
-* Effective Java  **by** Joshua Bloch
-* Seven Concurrency Models in Seven Weeks: When Threads Unravel **by** Paul Butcher
