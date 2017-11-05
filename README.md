@@ -14,10 +14,11 @@ I've done this repository to keep track (rather loosely) of my professional read
 * Javascript: The Good Parts **by** Douglas Cockford
 
 ## Whitepapers (only those that are about distributed systems, without being exhaustive):
-* AWS Well-Architected Framework
-* AWS Cloud Architecture Best Practices Whitepaper
-* Building Fault-Tolerant Applications on AWS Whitepaper
-* Web Hosting Best Practices Whitepaper
+* AWS Well-Architected Framework **by** Amazon AWS
+* AWS Cloud Architecture Best Practices Whitepaper **by** Amazon AWS
+* Building Fault-Tolerant Applications on AWS Whitepaper **by** Amazon AWS
+* Web Hosting Best Practices Whitepaper **by** Amazon AWS
+* Web API Design - Crafting Interfaces that Developers Love **by** Apigee
 
 ## Books that I have read just for fun:
 * Recommender Systems **by** Dietmar Jannach
