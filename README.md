@@ -4,6 +4,8 @@ I've done this repository to keep track (rather loosely) of my professional read
 
 ## Currently Reading:
 * Domain-Driven Design: Tackling Complexity in the Heart of Software **by** Eric Evans
+* Java Concurrency in Practice by by Brian Goetz **by** Doug Lea et al
+* Effective Java  **by** Joshua Bloch
 
 ## The essentials, that I've read so far:
 
@@ -28,8 +30,6 @@ I've done this repository to keep track (rather loosely) of my professional read
 
 ## Books that I have read into, occasionally picking up, etc:
 * Distributed Algorithms **by** Nancy A. Lynch
-* Java Concurrency in Practice by by Brian Goetz **by** Doug Lea et al
-* Effective Java  **by** Joshua Bloch
 * Seven Concurrency Models in Seven Weeks: When Threads Unravel **by** Paul Butcher
 
 ## Still on my reading list (approximately ordered):
