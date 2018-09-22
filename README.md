@@ -4,8 +4,7 @@ I've done this repository to keep track (rather loosely) of my professional read
 
 ## Currently Reading:
 * Domain-Driven Design: Tackling Complexity in the Heart of Software **by** Eric Evans
-* Java Concurrency in Practice by by Brian Goetz **by** Doug Lea et al
-* Effective Java  **by** Joshua Bloch
+* Release It!: Design and Deploy Production-Ready Software **by** Michael T. Nygard
 
 ## The essentials, that I've read so far:
 
@@ -32,9 +31,10 @@ I've done this repository to keep track (rather loosely) of my professional read
 ## Books that I have read into, occasionally picking up, etc:
 * Distributed Algorithms **by** Nancy A. Lynch
 * Seven Concurrency Models in Seven Weeks: When Threads Unravel **by** Paul Butcher
+* Java Concurrency in Practice by by Brian Goetz **by** Doug Lea et al
+* Effective Java  **by** Joshua Bloch
 
 ## Still on my reading list (approximately ordered):
-* Release It!: Design and Deploy Production-Ready Software **by** Michael T. Nygard
 * Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation **by** Jez Humble and David Farley 
 * Working Effectively with Legacy Code **by** Michael Feathers
 * The Pragmatic Programmer: From Journeyman to Master **by** Andrew Hunt and David Thomas
