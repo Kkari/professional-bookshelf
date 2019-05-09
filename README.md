@@ -3,11 +3,13 @@
 I've done this repository to keep track (rather loosely) of my professional reading list. It contains the books that I've read, the book that I'm currently reading, and some others that are on my watchlist but I haven't got the time to get around them just yet. When I did my bachelor thesis on image recognition with neural networks I read like a hundred publications about it, but I can't remember their names anymore and they are not that interesting anyhow.
 
 ## Currently Reading:
-* Domain-Driven Design: Tackling Complexity in the Heart of Software **by** Eric Evans
 * Release It!: Design and Deploy Production-Ready Software **by** Michael T. Nygard
 
 ## The essentials, that I've read so far:
 
+* User Story Mapping: Discover the Whole Story, Build the Right Product **by** Jeff Patton
+* Domain-Driven Design: Tackling Complexity in the Heart of Software **by** Eric Evans
+* Impact Mapping: Making a Big Impact with Software Products and Projects **by** Gojko Adzic
 * Building Microservices: Designing Fine-Grained Systems **by** Sam Newman
 * Clean Code: A Handbook of Agile Software Craftsmanship **by** Robert C. Martin
 * Javascript: The Good Parts **by** Douglas Cockford
